@@ -1,5 +1,5 @@
 import React from 'react'
-import Sidebar from '../../components/Sidebar.jsx';
+import Sidebar from '../../components/sidebar/Sidebar.jsx';
 import MessageContainer from '../../components/messages/MessageContainer.jsx';
 
 const Home = () => {
@@ -8,7 +8,7 @@ const Home = () => {
       <Sidebar />
       <MessageContainer />
     </div>
-  );
+  )
 };
 
 export default Home;
