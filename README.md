@@ -29,11 +29,11 @@ NODE_ENV=...
 npm run build
 ```
 
-# Video Tutorial
-https://www.youtube.com/watch?v=HwCqsOis894
-
 ### Start the app
 
 ```shell
 npm start
 ```
+
+#### Video Tutorial
+https://www.youtube.com/watch?v=HwCqsOis894
